@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=gXmznGEW9vo
 NeoVim Setup for Go(Linter/Language Server/Code AutoComplete) Linter will catch all compile errors:
 https://www.youtube.com/watch?v=i04sSQjd-qo
 
+Build a Schedule App that can connect to the Google API and send/receive, also runs in CLI, shows whats next to do, can retrieve on mobile phone/gmail account, and keep in a tmux tab on second monitor
+If feeling ambitious throw in an alarm sound, and pomodoro timer, 
