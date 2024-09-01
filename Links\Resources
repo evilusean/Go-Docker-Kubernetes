@@ -11,6 +11,9 @@ How to write HTTP Services in GO:
 https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
 https://go.dev/doc/articles/wiki/
 
+Go + Docker + Air = Live Reload GoLang Apps even when dockerized: 
+https://www.youtube.com/watch?v=Lnfzrus7G5s
+
 B!ook : 100 Go Mistakes and how to avoid them:
 https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them
 
