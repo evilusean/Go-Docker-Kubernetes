@@ -35,3 +35,5 @@ If feeling ambitious throw in an alarm sound, and pomodoro timer,
 
 Build an Ascii render for video files, I technically have one with mplayer/mpd, but you can't run MPD with NCMPCPP running, and MPLAYER just opens a new window of MPLAYER and runs from the terminal, not in
 Could just use Go to render in ascii, then run in the current terminal and just have a high refresh rate (30FPS?) 
+
+Go + HTMX Portfolio - can self host - Idk if I want to run a webserver on my laptop though - or just add an extra row for x3 Go Projects on my Web Developer Portfolio 
