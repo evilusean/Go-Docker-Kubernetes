@@ -32,3 +32,6 @@ https://www.youtube.com/watch?v=i04sSQjd-qo
 
 Build a Schedule App that can connect to the Google API and send/receive, also runs in CLI, shows whats next to do, can retrieve on mobile phone/gmail account, and keep in a tmux tab on second monitor
 If feeling ambitious throw in an alarm sound, and pomodoro timer, 
+
+Build an Ascii render for video files, I technically have one with mplayer/mpd, but you can't run MPD with NCMPCPP running, and MPLAYER just opens a new window of MPLAYER and runs from the terminal, not in
+Could just use Go to render in ascii, then run in the current terminal and just have a high refresh rate (30FPS?) 
