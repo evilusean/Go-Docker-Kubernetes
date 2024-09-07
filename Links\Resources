@@ -4,6 +4,7 @@ https://gobyexample.com/
 https://go.dev/doc/effective_go
 https://www.youtube.com/watch?v=qT14b1pxtiI
 https://github.com/Melkeydev/go-blueprint
+
 Learn Test Driven Development(TDD) with Go :
 https://quii.gitbook.io/learn-go-with-tests
 
@@ -33,7 +34,7 @@ https://www.youtube.com/watch?v=gXmznGEW9vo
 NeoVim Setup for Go(Linter/Language Server/Code AutoComplete) Linter will catch all compile errors:
 https://www.youtube.com/watch?v=i04sSQjd-qo
 
-Kubernetes+Docker is written in GO / esbuild-web bundler / Traefik(reverse proxy and load balancer, like NGINX) / CLI / Web API :
+ContainerIzeASean - Kubernetes+Docker is written in GO / esbuild-web bundler / Traefik(reverse proxy and load balancer, like NGINX) / CLI / Web API :
 https://www.youtube.com/watch?v=JtS1nGGyw9U
 
 Build a Schedule App that can connect to the Google API and send/receive, also runs in CLI, shows whats next to do, can retrieve on mobile phone/gmail account, and keep in a tmux tab on second monitor
@@ -43,5 +44,18 @@ Build an Ascii render for video files, I technically have one with mplayer/mpd, 
 Could just use Go to render in ascii, then run in the current terminal and just have a high refresh rate (30FPS?) 
 
 Go + HTMX Portfolio - can self host - Idk if I want to run a webserver on my laptop though - or just add an extra row for x3 Go Projects on my Web Developer Portfolio 
+
+VPS(Virtual Private Server) Dev Ops - Railway/Netlify/Vercel Vs AWS/Hostinger/ :
+https://www.youtube.com/watch?v=F-9KWQByeU0&ab_channel=DreamsofCode
+
+
+
+
+
+
+
+
+
+
 
 
