@@ -1,0 +1,44 @@
+DOCker documentaion :
+https://docs.docker.com/
+
+Install Docker on Arch Linux: 
+sudo pacman -S docker #install docker
+sudo systemctl start docker #start newly installed docker
+sudo systemctl enable docker #start daemon process at start
+sudo systemctl status docker #checks new install
+sudo systemctl stop docker #will stop docker 
+sudo docker run hello-world #test docker with a hello world
+sudo docker pull nginx #run an nginx docker image
+sudo docker images #check installed docker images on your machine
+sudo docker run -d nginx #run nginx docker image
+sudo docker ps #To confirm current running containers
+sudo docker ps -a #view all containers, both running and those that have previously been stopped
+sudo docker stop 968ff5caba7f #To stop a container, use the docker stop command followed by the container ID. For instance, to stop the Nginx container
+sudo docker pull ubuntu:20.04 #To better illustrate this, we are going to download the Ubuntu 20.04 docker image.
+sudo docker run -it ubuntu:20.04 #Some containers spawned from OS images may require some user interaction. interact with a Ubuntu container image and access the shell to run commands, use the -it flag.
+sudo docker run -p 8080:80 nginx #Sometimes, you may want to run a web server container and map its port to the host system to achieve this, use the -p option
+sudo usermod -aG docker $USER #
+newgrp docker #If you want to user docker commands with sudo command then add your local user to docker group
+
+FCC - DevOps - Learn Docker by Building a Node / Express App / MongoDB / Redis :
+https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/
+https://www.youtube.com/watch?v=9zUHg7xjIqQ&ab_channel=freeCodeCamp.org
+
+FCC - Docker Handbook :
+https://www.freecodecamp.org/news/the-docker-handbook/
+
+FCC - How to Create Database Migrations in Go Using Docker and Postgres:
+https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/
+
+
+
+
+
+
+
+
+
+
+
+
+
