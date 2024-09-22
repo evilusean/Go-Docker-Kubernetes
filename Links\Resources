@@ -48,6 +48,7 @@ Could just use Go to render in ascii, then run in the current terminal and just 
 
 Go + HTMX Portfolio - can self host - Idk if I want to run a webserver on my laptop though - or just add an extra row for x3 Go Projects on my Web Developer Portfolio 
 
+Vercel = AWS Lambdas (500% markup - AWS wrapper/UI/UX/DevX - same product, just more expensive - don't be 'that' guy - just git gud) :
 VPS(Virtual Private Server) Dev Ops - Railway/Netlify/Vercel Vs AWS/Hostinger/ :
 https://www.youtube.com/watch?v=F-9KWQByeU0&ab_channel=DreamsofCode
 
