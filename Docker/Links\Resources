@@ -1,6 +1,29 @@
 DOCker documentaion :
 https://docs.docker.com/
 
+Image Container Library:
+https://hub.docker.com/
+
+Tools can be installed with dependancies in a docker file and converted to an image - so it won't clash with other tools - can be used as an app if you add to .bash file
+
+18 Ways to use Docker -inherit isolation/security/ephemeral (containerized browser/obsidian/libre office/docker desktop/Portainer/DangerZone/Custom Container DockerFile App/Docker Scout/
+  containerized Kali vs VM/Hacking Lab(create vulnerable machines/networks to practice on)/Docker Compose(like puppet)/OS/Docker-OSX(X-Code)/DockerPi/IT-Tools):
+https://www.youtube.com/watch?v=RUqGlWr5LBA&ab_channel=NetworkChuck
+
+Docker Desktop:
+https://www.docker.com/products/docker-desktop/
+Portainer:
+https://www.portainer.io/
+DangerZone (safePDF's/Docs sandboxed)-requires docker desktop:
+https://github.com/freedomofpress/dangerzone
+
+DockerPi(raspberry pi in a docker container):
+https://github.com/lukechilds/dockerpi
+
+Corientinth IT-Tools in a container :
+https://hub.docker.com/r/corentinth/it-tools
+https://github.com/CorentinTh/it-tools
+
 Install Docker on Arch Linux: 
 sudo pacman -S docker #install docker
 sudo systemctl start docker #start newly installed docker
