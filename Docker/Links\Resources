@@ -24,6 +24,9 @@ Corientinth IT-Tools in a container :
 https://hub.docker.com/r/corentinth/it-tools
 https://github.com/CorentinTh/it-tools
 
+FS - 100+ Docker Concepts you Need to Know :
+https://www.youtube.com/watch?v=rIrNIzy6U_g&ab_channel=Fireship
+
 Install Docker on Arch Linux: 
 sudo pacman -S docker #install docker
 sudo systemctl start docker #start newly installed docker
