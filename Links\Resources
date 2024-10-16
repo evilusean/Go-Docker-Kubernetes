@@ -55,6 +55,12 @@ https://www.youtube.com/watch?v=F-9KWQByeU0&ab_channel=DreamsofCode
 How to make AWS not suck(DevOps) - Terraform/Pulumi(Go)/SST(typescript pulumi wrapper)/Docker/LocalStack(AWS Services Locally-can test AWS locally-practice)/ClouadCraft(3D system viz)/Encore(app in Go/TS):
 https://www.youtube.com/watch?v=gJmz31JywM0&ab_channel=Fireship
 
+AWS Certs (Fundamentals/DevOps/CloudSolutionsArchitect)Do on Coursera, then pay 150$ to do a certification test on AWS to make it 'official'. Docker -> AWS -> Go(TDD) -> Escape :
+https://www.coursera.org/specializations/aws-fundamentals
+https://www.coursera.org/specializations/aws-devops
+https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect
+https://aws.amazon.com/certification/
+
 Go Vs Node Benchmarks (Let's Goooooooooo! 80k requests per second vs 8k RPS + 10xLatency) :
 https://www.youtube.com/watch?v=ZslbMp_T90k&ab_channel=AntonPutra
 Go Vs Bun Benchmarks :
