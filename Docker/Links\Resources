@@ -28,6 +28,8 @@ FS - 100+ Docker Concepts you Need to Know :
 https://www.youtube.com/watch?v=rIrNIzy6U_g&ab_channel=Fireship
 
 Install Docker on Arch Linux: 
+https://docs.docker.com/desktop/install/linux/archlinux/
+https://wiki.archlinux.org/title/Docker
 sudo pacman -S docker #install docker
 sudo systemctl start docker #start newly installed docker
 sudo systemctl enable docker #start daemon process at start
