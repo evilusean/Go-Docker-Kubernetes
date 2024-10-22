@@ -4,7 +4,7 @@ https://docs.docker.com/
 Image Container Library:
 https://hub.docker.com/
 
-Change where Images are installed-Default=var/lib/docker(already running out of space on my SDD, and I haven't even downloaded any AI models yet-RIP-Cache is at 13gigs, I think I found the problem):
+Change where Images are installed-Default=var/lib/docker(already running out of space on my SDD, and I haven't even downloaded any AI models yet-RIP-Cache is at 13gigs, I think I found the future sean problem):
 https://forums.docker.com/t/how-do-i-change-the-docker-image-installation-directory/1169
 https://wiki.archlinux.org/title/Docker#:~:text=By%20default%2C%20docker%20images%20are,images%20to%20%2Fmnt%2Fdocker%20.
 
