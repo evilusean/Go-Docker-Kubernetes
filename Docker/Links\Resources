@@ -68,6 +68,9 @@ Best Docker Containers for a Home Server/Lab 2024(future sean problem, step 1) E
 https://www.youtube.com/watch?v=8-IQAqIpT5s&ab_channel=VirtualizationHowto
 
 Future Sean ProjectSean : Take all TTS/STT AI models, download them locally, and have a docker container that can run them so I don't need to spin up a VM every time I want to translate a sentence
+  you will need to figure out a way to allow tensorflow/OpenAI whisper model to use GPU - or else the container is going to run veryyy slow - and I want real time audo transcription/translation
+  a few seconds delay isn't bad, but minutes is, I need at least 4 models (japanese to text STT + japanese to english STT / slovak TTS / japanese TTS) 
+  basically I want to be able to realtime translate any meeting/interview in japanese to english in real time, to a text file with timestamps, 
 
 
 
