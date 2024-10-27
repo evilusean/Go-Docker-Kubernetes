@@ -71,7 +71,9 @@ Future Sean ProjectSean : Take all TTS/STT AI models, download them locally, and
   you will need to figure out a way to allow tensorflow/OpenAI whisper model to use GPU - or else the container is going to run veryyy slow - and I want real time audo transcription/translation
   a few seconds delay isn't bad, but minutes is, I need at least 4 models (japanese to text STT + japanese to english STT / slovak TTS / japanese TTS) 
   basically I want to be able to realtime translate any meeting/interview in japanese to english in real time, to a text file with timestamps, 
-
+  if I'm feeling very ambitious add a hotkey to keyboard, that when presseed will start auto translating the audio input from laptop, or run in background when docker container is open
+  I'll need both romaji/hiragana and the english translation - so that's 3 lines per translated sentence with one timestamp, and openAI whisper can run locally and 'chunk' certain amount of time - then translate
+  the very lowest level of usability I want is to be able to have it take an audio file and transcribe that to romaji/hiragana - worst case ontario, I can run that through google translate to get english
 
 
 
