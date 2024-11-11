@@ -3,4 +3,15 @@ https://docs.anthropic.com/en/home
 
 Install Locally:
 https://medium.com/@hassan.trabelsi/claude-ai-can-run-your-pc-heres-how-to-set-it-up-c6c092543003
+DockerDesktop -> Terminal -> 
+'docker run -e ANTHROPIC_API_KEY=YOUR_API_KEY_HERE -v $HOME/.anthropic:/home/computeruse/.anthropic -p 5900:5900 -p 8501:8501 -p 6080:6080 -p 8080:8080 -it ghcr.io/anthropics/anthropic-quickstarts:computer-use-demo-latest'
+#replace <YOUR API KEY HERE> with the saved one from 'https://console.anthropic.com/settings/keys' ensure there are no spaces
+'http://localhost:8080' #after inputting above command, go here to use claude AI
+
 https://claudeaihub.com/claude-ai-download/#gsc.tab=0
+1)Install Docker: Make sure you have Docker installed on your system. You can download it from Docker’s official site.
+2)Pull Claude AI Docker Image: Open your terminal and run the following command:
+   'docker pull anthropic/claude:latest'
+3)Run the Docker Container: Start the Claude AI Docker container using:
+   'docker run -p 8000:8000 anthropic/claude:latest'
+4)Access Claude AI Locally: Open your browser and navigate to http://localhost:8000 to access Claude AI running on your system.
